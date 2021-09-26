@@ -1,5 +1,6 @@
 import "./Main.css";
 import { useState, useEffect } from "react";
+import Summary from "../Summary/Summary";
 let Main = () => {
   const [state, setstate] = useState([]);
 
@@ -25,7 +26,9 @@ let Main = () => {
           </div>
         ))}
       </div>
-      <div>Aside part</div>
+      <div>
+        <Summary />
+      </div>
     </div>
   );
 };

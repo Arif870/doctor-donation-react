@@ -12,6 +12,7 @@
   justify-content: center;
   display: flex;
   gap: 20px;
+  border-right: 1px solid lightblue;
 }
 
 .card {

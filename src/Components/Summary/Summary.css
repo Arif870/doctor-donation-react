@@ -1,0 +1,31 @@
+.summary {
+  text-align: center;
+}
+.summary h1 {
+  font-weight: 400;
+  font-size: 30px;
+  color: #282c34;
+  margin-top: 20px;
+}
+.summary i {
+  color: rgb(86, 151, 224);
+  font-size: 50px;
+}
+.summary h3 {
+  color: rgb(57, 116, 184);
+  font-weight: 400;
+  margin-top: 15px;
+}
+.summary p {
+  text-align: start;
+  color: #282c34;
+}
+.summary .doctor i {
+  font-size: 13px;
+}
+.summary .doctor {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 20px;
+}
