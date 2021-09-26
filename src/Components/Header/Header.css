@@ -1,0 +1,22 @@
+.header {
+  background-color: #282c34;
+  padding: 20px 0px;
+  text-align: center;
+}
+.header img {
+  width: 80px;
+}
+.header h1,
+h2 {
+  text-align: center;
+  color: aliceblue;
+  width: 90%;
+  margin: auto;
+  font-weight: 400;
+}
+.header h2 {
+  margin-top: 10px;
+  font-weight: 400;
+  color: #e23e85;
+  font-size: 30px;
+}
