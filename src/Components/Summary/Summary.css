@@ -1,5 +1,6 @@
 .summary {
   text-align: center;
+  position: fixed;
 }
 .summary h1 {
   font-weight: 400;
@@ -17,8 +18,11 @@
   margin-top: 15px;
 }
 .summary p {
-  text-align: start;
-  color: #282c34;
+  text-align: center;
+  color: #797b7e;
+  font-size: 14px;
+  width: 80%;
+  line-height: 25px;
 }
 .summary .doctor i {
   font-size: 13px;
